@@ -7,5 +7,14 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Hello, Git")
+
+print("Các lệnh trong Command Line")
+
+/**
+ cd
+ ls
+ ls -la
+ ....
+ */
 
